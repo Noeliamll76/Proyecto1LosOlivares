@@ -1,14 +1,10 @@
 ## 1º Proyecto sobre una web de un restaurante digital (semana 1)"
 
 ​
-<img src="imagenes/logoChurreMod.jpg">
+<img src="./imagenes/LogoChurreMod.jpg">
 <br>
-<br>
-<br>
-
 <p text-align="center">Desarrollada como parte del proceso de aprendizaje para el desarrollo de páginas web del Bootcamp de Full Stack Developer de Geekshubs Academy, en Valencia</p>
-​<br>
-​<br>
+
 ​<br>
 <h5> Tecnologías utilizadas</h5>
 ​
@@ -34,7 +30,7 @@ Nunca han tenido una pagina web, ni publicidad alguna que les hiciese de reclamo
 
 El local está situado en el bajo de una casa con fachada modernista, protegida por Patrimonio, en el pintoresco barrio del Cabanyal-Canyamelar.
 
-<img src="imagenes/El-Cabanyal-scaled.jpg>
+<img src="./imagenes/El-Cabanyal-scaled.jpg>
 
 Este antiguo barrio de pescadores, fué declarado recientemente por The Guardian entre los 10 barrios más cool de Europa.
 
@@ -61,7 +57,8 @@ Se compone de:
 ​
 - �� A pesar de utilizar las herramientas de Bootstrap y diseñar la web de modo responsive, en la hoja de contactos no he conseguido que el mapa se ajuste al tamaño de las pequeñas pantallas.
 ​
-​### Agradecimientos:
+### Agradecimientos:
+
 Quería agradecer a mis compañeros de Bootcamp, por su paciencia, siempre mostrando su mejor versión cada vez que estaba perdida.
 Muchisimas gracias.
 
